@@ -1,0 +1,127 @@
+header{
+    background-color: #1C1C1C ;
+    color: azure;
+    padding-top: 10px;
+    height: 60px;
+    width: 100%;
+}
+body{
+    margin: 0;
+    background-color: #F0FFF0;    
+    overflow-x: hidden;
+}
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: 700;
+    padding-left: 30px;
+    padding-top: 50px;
+}
+div{
+    text-align: right;
+    padding-right: 150px;
+   margin-top: -40px
+}
+h1{
+ padding-left: 100px;
+  margin-top: -2px
+}
+img{
+    width: 300px;
+}
+article{
+    width: 300px;
+    height: 200px;
+    padding: 0 30px 300px 70px ;
+  
+   
+}
+ article header{
+    background-color: #F0FFF0;
+ }
+
+ time{
+    color: #1C1C1C;
+ }
+
+ section{
+   padding-top: 20px;
+   padding: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   
+  
+ }
+ h2{
+    padding-left: 140px;
+ }
+  article a{
+    background-color: #228B22;
+    border: 1px solid;
+    padding: 2px;
+  }
+.economia{
+    background-color: #F0E68C;
+    
+}
+#economia{
+    background-color: #F0E68C;
+    margin-top: -20px;
+
+}
+
+#economia header{
+    background-color: #F0E68C;
+}
+
+#economia a{
+    border-color: #F0E68C;
+    background-color: #FFA500;
+}
+
+#petroleo{
+    width: 350px;
+}
+
+#tecnologia{
+    background-color: #DA70D6;
+    margin-top: -20px;
+    
+}
+#tecnologia header{
+
+    background-color: #DA70D6;
+
+}
+.tec{
+    background-color: #DA70D6;
+    width: 100%;
+    margin-top: -20px;
+
+}
+#tecnologia a{
+    background-color: #7B68EE;
+    border-color: #7B68EE;
+}
+
+#Entretenimento{
+    background-color: #7FFFD4;
+    margin-top: -20px;
+}
+.Entretenimento{
+    background-color: #7FFFD4;
+    height: 60px;
+    margin-top: -20px;
+}
+#Entretenimento header{
+    background-color: #7FFFD4;
+}
+
+#Entretenimento a{
+    background-color: #87CEEB;
+    border-color: #87CEEB;
+}
+
+
+
